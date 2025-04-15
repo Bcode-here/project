@@ -1,1 +1,1 @@
-print("Nigga Aata Duniya Walo");
+print("baghitl Na....Nigga Aata.....thank you");
